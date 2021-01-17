@@ -1,11 +1,11 @@
 package com.fh.model.vo;
 
-public class PinPaiData {
+public class AttValueVo {
+
     private Integer currPage;
     private Integer size;
 
     private String name;
-
 
 
     public Integer getCurrPage() {
